@@ -62,7 +62,7 @@ cd ai-summarizer
 source venv/bin/activate
 python app.py
 ```
-- The backend runs on **http://localhost:5000**.
+- The backend runs on **http://localhost:5001**.
 
 ### Start React Frontend
 ```bash
