@@ -1,0 +1,3 @@
+ai-summarizer/
+__pycache__/
+best_model.pt
